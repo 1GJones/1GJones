@@ -37,7 +37,7 @@ Let's build something together — or feel free to check out my work and reach o
 
 - GitHub: [github.com/1GJones](https://github.com/1GJones)
 - LinkedIn: [linkedin.com/in/gamal-jones-1b1494293](https://www.linkedin.com/in/gamal-jones-1b1494293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrEgw9XQrSoecrxDPo9eRKQ%3D%3D)
-- Phone: 351-201-0755 (Work)
+- Phone: 617-735-0762 (Work)
 
 ---
 
