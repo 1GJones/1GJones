@@ -43,4 +43,11 @@ Let's build something together — or feel free to check out my work and reach o
 
 > *"The best way to learn is to build — and I’m building every day."*
 
+Next.js App Router (dynamic [roomId])
+✅ Custom Server (Node.js + Socket.IO)
+✅ WebSockets (real-time bidirectional)
+✅ React Hooks (useState, useEffect, useRef, useParams)
+✅ Optimistic Updates (send → instant UI → server confirm)
+✅ Tailwind CSS (responsive + beautiful)
+✅ Debugging (Console, Network tab, Terminal logs)
 
